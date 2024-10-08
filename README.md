@@ -77,3 +77,10 @@ hackathon-project-at-sgu/
 - **`src/App.jsx`**: The root component that contains the application's main layout.
 - **`vite.config.js`**: Configuration file for Vite, where you can customize build and development settings.
 - **`index.html`**: The HTML template used by Vite to serve your React application.
+
+
+### Collaborators 🤝
+- [@altamsh04](https://github.com/altamsh04)
+- [@pradip5474](https://github.com/pradip5474)
+- [@Shreyas-Patil-11](https://github.com/Shreyas-Patil-11)
+- [@junnu01](https://github.com/junnu01)
