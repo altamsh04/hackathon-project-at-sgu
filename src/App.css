@@ -1,0 +1,13 @@
+body, html {
+  background-color: #efe8f0; /* Light background color for the full page */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  /* max-width: 1280px; */
+  margin: 0 ;
+  /* padding: 2rem; */
+  /* text-align: center; */
+}
